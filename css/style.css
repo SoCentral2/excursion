@@ -10,7 +10,7 @@ body {
     color: white;
 }
 
-body .downloadLink {
+.downloadLink {
    color: aquamarine;
    font-size: 16px; 
 }
@@ -22,6 +22,11 @@ body .downloadLink {
     color: white;
 }
 
+.copyright {
+    text-align: right;
+    color: gray;
+}
+
 .middleSubHeader {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
@@ -30,4 +35,11 @@ body .downloadLink {
 
 .imgPhone {
     padding-top: 1.5rem;
+}
+
+.bottomHeader {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
 }
